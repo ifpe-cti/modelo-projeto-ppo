@@ -38,11 +38,15 @@ executar a solução proposta?
 
 ## Contribuidores
 
-Colocar o login no GitHub, endereço do perfil no GitHub e nome completo de todos
-os participantes do projeto, bem como o professor orientador, conforme o exemplo
-abaixo:
-- [@fulano-de-tal](https://github.com/fulano-de-tal) como Fulano de Tal (Orientador)
-- [@sicrano-de-tal](https://github.com/sicrano-de-tal) como Sicrano de Tal
+Colocar o nome do usuário (username) do GitHub, endereço do perfil no GitHub,
+nome completo e o papel de todos os participantes do projeto, bem como o
+professor orientador, conforme o exemplo abaixo:
+- [@fulano](https://github.com/fulano) como Fulano da Silva (Arquiteto)
+- [@beltrano](https://github.com/beltrano) como Beltrano da Silva
+  (Desenvolvedor)
+- [@zutana](https://github.com/zutana) como Zutana da Silva (Desenvolvedora)
+- [@citana](https://github.com/citana) como Citana da Silva (Desenvolvedora)
+- [@sicrano](https://github.com/sicrano) como Sicrano da Silva (Orientador)
 
 ## Licença
 
