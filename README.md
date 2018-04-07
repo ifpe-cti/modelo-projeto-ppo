@@ -70,7 +70,7 @@ procedimentos foram feitos.
     <th>Quem usa?</th>
   </tr>
   <tr>
-    <td>GPL 2.0</td>
+    <td><a href="GPL-2.0">GPL 2.0</a></td>
     <td>
     GPL é a licença de software livre mais utilizada e tem uma forte exigência
     de copyleft. Ao distribuir trabalhos derivados, o código-fonte do trabalho
@@ -167,7 +167,7 @@ software a terceiros não incluídos na licença.">Sublicenciamento
     </td>
     <td>
       <ul>
-        <li>[GIMP](https://www.gimp.org)</li>
+        <li><a href="https://www.gimp.org">GIMP</a></li>
       </ul>
     </td>
   </tr>
@@ -205,10 +205,10 @@ e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
     </td>
     <td>
       <ul>
-        <li>[.NET Core](https://dotnet.github.io)</li>
-        <li>[Ruby on Rails](http://rubyonrails.org)</li>
-        <li>[Takes](http://www.takes.org)</li>
-        <li>[Cactoos](http://www.cactoos.org)</li>
+        <li><a href="https://dotnet.github.io">.NET Core</a></li>
+        <li><a href="http://rubyonrails.org">Ruby on Rails</a></li>
+        <li><a href="http://www.takes.org">Takes</a></li>
+        <li><a href="http://www.cactoos.org">Cactoos</a></li>
       </ul>
     </td>
   </tr>
@@ -253,8 +253,8 @@ marcas de contribuidores.">Uso de marca registrada</a></li>
     </td>
     <td>
       <ul>
-        <li>[Tomcat](http://tomcat.apache.org)</li>
-        <li>[Maven](http://maven.apache.org)</li>
+        <li><a href="http://tomcat.apache.org">Tomcat</a></li>
+        <li><a href="http://maven.apache.org">Maven</a></li>
       </ul>
     </td>    
   </tr>
@@ -290,7 +290,7 @@ e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
     </td>
     <td>
       <ul>
-        <li>[FreeBSD Kernel](https://www.freebsd.org)</li>
+        <li><a href="https://www.freebsd.org">FreeBSD Kernel</a></li>
       </ul>
     </td>    
   </tr>
@@ -372,7 +372,7 @@ e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
     </td>
     <td>
       <ul>
-        <li>[Hibernate](http://hibernate.org)</li>
+        <li><a href="http://hibernate.org">Hibernate</a></li>
       </ul>
     </td>
   </tr>
@@ -466,7 +466,7 @@ marcas de contribuidores.">Uso de marca registrada</a></li>
     </td>
     <td>
       <ul>
-        <li>[Firefox](https://www.mozilla.org)</li>
+        <li><a href="https://www.mozilla.org">Firefox</a></li>
       </ul>
     </td>    
   </tr>
@@ -513,7 +513,7 @@ e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
     </td>
     <td>
       <ul>
-        <li>[Eclipse](http://www.eclipse.org)</li>
+        <li><a href="http://www.eclipse.org">Eclipse</a></li>
       </ul>
     </td>    
   </tr>
