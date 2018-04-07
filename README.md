@@ -78,15 +78,15 @@ procedimentos foram feitos.
     </td>
     <td>
       <ul>
-        <li><a title="É EXIGIDO que você inclua uma cópia da licença e aviso
-dos direitos autorais com o código fonte.">Aviso de licença e direitos autorais
-        </a></li>
-        <li><a title="É EXIGIDO indicar alterações significativas feitas no
-código.">Mudanças de estado</a></li>
+        <li><a href="" title="É EXIGIDO que você inclua uma cópia da licença e
+aviso dos direitos autorais com o código fonte.">Aviso de licença e direitos
+autorais.</a></li>
+        <li><a href="" title="É EXIGIDO indicar alterações significativas
+feitas no código.">Mudanças de estado</a></li>
         <li>
-<a title="É EXIGIDO que o código fonte deve ser disponibilizado ao distribuir o
-software. Em caso de LGPL, o fonte da biblioteca (e não do programa
-inteiro) deve ser disponibilizado.">Divulgação do código fonte</a>
+<a href="" title="É EXIGIDO que o código fonte deve ser disponibilizado ao
+distribuir o software. Em caso de LGPL, o fonte da biblioteca (e não do
+programa inteiro) deve ser disponibilizado.">Divulgação do código fonte</a>
         </li>
       </ul>
     </td>
