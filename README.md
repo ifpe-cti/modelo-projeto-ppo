@@ -114,10 +114,10 @@ software a terceiros não incluídos na licença.">Sublicenciamento
     </td>
     <td>
       <ul>
-        <li>[Git](https://git-scm.com)</li>
-        <li>[Linux Kernel](https://www.kernel.org)</li>
-        <li>[Inkscape](https://inkscape.org)</li>
-        <li>[Free Pascal Compiler](https://www.freepascal.org)</li>
+        <li><a href="https://git-scm.com">Git</a></li>
+        <li><a href="https://www.kernel.org">Linux Kernel</a></li>
+        <li><a href="https://inkscape.org">Inkscape</a></li>
+        <li><a href="https://www.freepascal.org">Free Pascal Compiler</a></li>
       </ul>
     </td>    
   </tr>
