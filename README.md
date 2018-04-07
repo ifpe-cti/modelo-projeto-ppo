@@ -78,9 +78,10 @@ procedimentos foram feitos.
     </td>
     <td>
       <ul>
-        <li><a href="" title="É EXIGIDO que você inclua uma cópia da licença e
-aviso dos direitos autorais com o código fonte.">Aviso de licença e direitos
-autorais.</a></li>
+        <li>
+<a href="direitos-autorais" title="É EXIGIDO que você inclua uma cópia da
+licença e aviso dos direitos autorais com o código fonte.">Aviso de licença
+e direitos autorais.</a></li>
         <li><a href="" title="É EXIGIDO indicar alterações significativas
 feitas no código.">Mudanças de estado</a></li>
         <li>
