@@ -70,7 +70,7 @@ procedimentos foram feitos.
     <th>Quem usa?</th>
   </tr>
   <tr>
-    <td><a name="GPL-2.0">GPL 2.0</a></td>
+    <td>GPL 2.0</td>
     <td>
     GPL é a licença de software livre mais utilizada e tem uma forte exigência
     de copyleft. Ao distribuir trabalhos derivados, o código-fonte do trabalho
@@ -78,10 +78,9 @@ procedimentos foram feitos.
     </td>
     <td>
       <ul>
-        <li>
-<a href="#GPL-2.0" title="É EXIGIDO que você inclua uma cópia da
-licença e aviso dos direitos autorais com o código fonte.">Aviso de licença
-e direitos autorais.</a></li>
+        <li>Aviso de licença e direitos autorais.
+          <sup>[1](#direitos-autorais)</sup>
+        </li>
         <li><a href="" title="É EXIGIDO indicar alterações significativas
 feitas no código.">Mudanças de estado</a></li>
         <li>
@@ -518,3 +517,6 @@ e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
     </td>    
   </tr>
 </table>
+
+<a name="direitos-autorais">1</a>: É EXIGIDO que você inclua uma cópia da
+licença e aviso dos direitos autorais com o código fonte.
