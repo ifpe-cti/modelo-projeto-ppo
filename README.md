@@ -79,7 +79,7 @@ procedimentos foram feitos.
     <td>
       <ul>
         <li>Aviso de licença e direitos autorais.
-          <sup>[1](#direitos-autorais)</sup>
+          <sup><a href="#direitos-autorais">1</a></sup>
         </li>
         <li><a href="" title="É EXIGIDO indicar alterações significativas
 feitas no código.">Mudanças de estado</a></li>
