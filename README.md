@@ -488,7 +488,7 @@ disponibilizado ao distribuir o software. Em caso de LGPL, o fonte da
 biblioteca (e não do programa inteiro) deve ser disponibilizado.<br />
 <a name="biblioteca"><b>4</b></a>: A biblioteca pode ser usada dentro de um
 software não open source.<br />
-
+<br />
 <a name="uso-comercial"><b>5</b></a>: É PERMITIDO usar o software e seus
 derivados para fins comerciais.<br />
 <a name="modificacao"><b>6</b></a>: É PERMITIDO modificar o software.<br />
@@ -498,7 +498,7 @@ distribuir este software SEM risco de quebra de patentes, pois há uma concessã
 expressa de direitos de patente do contribuinte para o destinatário.<br />
 <a name="sublicenciamento-ok"><b>12</b></a>: É PERMITIDO sublicenciar para
 modificar e distribuir o software a terceiros não incluídos na licença.<br />
-
+<br />
 <a name="responsabilidade"><b>9</b></a>: É PROIBIDO responsabilizar o autor do
 software por perdas e dados. O software é fornecido SEM garantias.<br />
 <a name="sublicenciamento"><b>10</b></a>: É PROIBIDO sublicenciar para
