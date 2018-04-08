@@ -81,34 +81,30 @@ procedimentos foram feitos.
         <li>Aviso de licença e direitos autorais.
           <sup><a href="#direitos-autorais">1</a></sup>
         </li>
-        <li><a href="" title="É EXIGIDO indicar alterações significativas
-feitas no código.">Mudanças de estado</a></li>
-        <li>
-<a href="" title="É EXIGIDO que o código fonte deve ser disponibilizado ao
-distribuir o software. Em caso de LGPL, o fonte da biblioteca (e não do
-programa inteiro) deve ser disponibilizado.">Divulgação do código fonte</a>
+        <li>Mudanças de estado
+          <sup><a href="#mudancas-estado">2</a></sup>
+        </li>
+        <li>Divulgação do código fonte
+          <sup><a href="#divulgacao-fonte">3</a></sup>
         </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PERMITIDO usar o software e seus derivados para fins
-comerciais.">Uso comercial</a></li>
-        <li><a title="É PERMITIDO modificar o software.">Modificação</a></li>
-        <li><a title="É PERMITIDO distribuir o software.">Distribuição</a></li>
-        <li>
-<a title="É PERMITIDO utilizar, modificar e distribuir este software SEM risco
-de quebra de patentes, pois há uma concessão expressa de direitos
-de patente do contribuinte para o destinatário.">Concessão de patente</a></li>
+        <li>Uso comercial<sup><a href="#uso-comercial">5</a></sup></li>
+        <li>Modificação<sup><a href="#modificacao">6</a></sup></li>
+        <li>Distribuição<sup><a href="#distribuicao">7</a></sup></li>
+        <li>Concessão de patente<sup><a href="#concessao-patente">8</a></sup>
+        </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PROIBIDO responsabilizar o autor do software por perdas
-e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
+        <li>Responsabilidade assegurada
+          <sup><a href="#responsabilidade">9</a></sup>
         </li>
-        <li><a title="É PROIBIDO sublicenciar para modificar e distribuir o
-software a terceiros não incluídos na licença.">Sublicenciamento
+        <li>Sublicenciamento
+          <sup><a href="#sublicenciamento">10</a></sup>
         </li>
       </ul>
     </td>
@@ -130,37 +126,33 @@ software a terceiros não incluídos na licença.">Sublicenciamento
     </td>    
     <td>
       <ul>
-        <li><a title="É EXIGIDO que você inclua uma cópia da licença e aviso
-dos direitos autorais com o código fonte.">Aviso de licença e direitos autorais
-        </a></li>
-        <li><a title="É EXIGIDO indicar alterações significativas feitas no
-código.">Mudanças de estado</a></li>
-        <li>
-<a title="É EXIGIDO que o código fonte deve ser disponibilizado ao distribuir o
-software. Em caso de LGPL, o fonte da biblioteca (e não do programa
-inteiro) deve ser disponibilizado.">Divulgação do código fonte</a>
+        <li>Aviso de licença e direitos autorais.
+          <sup><a href="#direitos-autorais">1</a></sup>
+        </li>
+        <li>Mudanças de estado
+          <sup><a href="#mudancas-estado">2</a></sup>
+        </li>
+        <li>Divulgação do código fonte
+          <sup><a href="#divulgacao-fonte">3</a></sup>
         </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PERMITIDO usar o software e seus derivados para fins
-comerciais.">Uso comercial</a></li>
-        <li><a title="É PERMITIDO modificar o software.">Modificação</a></li>
-        <li><a title="É PERMITIDO distribuir o software.">Distribuição</a></li>
-        <li>
-<a title="É PERMITIDO utilizar, modificar e distribuir este software SEM risco
-de quebra de patentes, pois há uma concessão expressa de direitos
-de patente do contribuinte para o destinatário.">Concessão de patente</a></li>
+        <li>Uso comercial<sup><a href="#uso-comercial">5</a></sup></li>
+        <li>Modificação<sup><a href="#modificacao">6</a></sup></li>
+        <li>Distribuição<sup><a href="#distribuicao">7</a></sup></li>
+        <li>Concessão de patente<sup><a href="#concessao-patente">8</a></sup>
+        </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PROIBIDO responsabilizar o autor do software por perdas
-e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
+        <li>Responsabilidade assegurada
+          <sup><a href="#responsabilidade">9</a></sup>
         </li>
-        <li><a title="É PROIBIDO sublicenciar para modificar e distribuir o
-software a terceiros não incluídos na licença.">Sublicenciamento
+        <li>Sublicenciamento
+          <sup><a href="#sublicenciamento">10</a></sup>
         </li>
       </ul>
     </td>
@@ -179,26 +171,24 @@ software a terceiros não incluídos na licença.">Sublicenciamento
     </td>
     <td>
       <ul>
-        <li><a title="É EXIGIDO que você inclua uma cópia da licença e aviso
-dos direitos autorais com o código fonte.">Aviso de licença e direitos autorais
-        </a></li>
+        <li>Aviso de licença e direitos autorais.
+          <sup><a href="#direitos-autorais">1</a></sup>
+        </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PERMITIDO usar o software e seus derivados para fins
-comerciais.">Uso comercial</a></li>
-        <li><a title="É PERMITIDO modificar o software.">Modificação</a></li>
-        <li><a title="É PERMITIDO distribuir o software.">Distribuição</a></li>
-        <li><a title="É PERMITIDO conceder uma sublicença para modificar e
-distribuir o software a terceiros não incluídos na licença.">Sublicenciamento
-        </a></li>
+        <li>Uso comercial<sup><a href="#uso-comercial">5</a></sup></li>
+        <li>Modificação<sup><a href="#modificacao">6</a></sup></li>
+        <li>Distribuição<sup><a href="#distribuicao">7</a></sup></li>
+        <li>Sublicenciamento<sup><a href="#sublicenciamento-ok">12</a></sup>
+        </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PROIBIDO responsabilizar o autor do software por perdas
-e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
+        <li>Responsabilidade assegurada
+          <sup><a href="#responsabilidade">9</a></sup>
         </li>
       </ul>
     </td>
@@ -219,35 +209,33 @@ e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
     </td>
     <td>
       <ul>
-        <li><a title="É EXIGIDO que você inclua uma cópia da licença e aviso
-dos direitos autorais com o código fonte.">Aviso de licença e direitos autorais
-        </a></li>
-        <li><a title="É EXIGIDO indicar alterações significativas feitas no
-código.">Mudanças de estado</a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><a title="É PERMITIDO usar o software e seus derivados para fins
-comerciais.">Uso comercial</a></li>
-        <li><a title="É PERMITIDO modificar o software.">Modificação</a></li>
-        <li><a title="É PERMITIDO distribuir o software.">Distribuição</a></li>
-        <li><a title="É PERMITIDO conceder uma sublicença para modificar e
-distribuir o software a terceiros não incluídos na licença.">Sublicenciamento
-        </a></li>
-        <li>
-<a title="É PERMITIDO utilizar, modificar e distribuir este software SEM risco
-de quebra de patentes, pois há uma concessão expressa de direitos
-de patente do contribuinte para o destinatário.">Concessão de patente</a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><a title="É PROIBIDO responsabilizar o autor do software por perdas
-e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
+        <li>Aviso de licença e direitos autorais.
+          <sup><a href="#direitos-autorais">1</a></sup>
         </li>
-        <li><a title="É PROIBIDO (explícitamente) utilizar nomes, logos ou
-marcas de contribuidores.">Uso de marca registrada</a></li>
+        <li>Mudanças de estado
+          <sup><a href="#mudancas-estado">2</a></sup>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Uso comercial<sup><a href="#uso-comercial">5</a></sup></li>
+        <li>Modificação<sup><a href="#modificacao">6</a></sup></li>
+        <li>Distribuição<sup><a href="#distribuicao">7</a></sup></li>
+        <li>Concessão de patente<sup><a href="#concessao-patente">8</a></sup>
+        </li>
+        <li>Sublicenciamento<sup><a href="#sublicenciamento-ok">12</a></sup>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Responsabilidade assegurada
+          <sup><a href="#responsabilidade">9</a></sup>
+        </li>
+        <li>Uso de marca registrada
+          <sup><a href="#marca-registrada">11</a></sup>
+        </li>
       </ul>
     </td>
     <td>
@@ -264,26 +252,24 @@ marcas de contribuidores.">Uso de marca registrada</a></li>
     </td>
     <td>
       <ul>
-        <li><a title="É EXIGIDO que você inclua uma cópia da licença e aviso
-dos direitos autorais com o código fonte.">Aviso de licença e direitos autorais
-        </a></li>
+        <li>Aviso de licença e direitos autorais.
+          <sup><a href="#direitos-autorais">1</a></sup>
+        </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PERMITIDO usar o software e seus derivados para fins
-comerciais.">Uso comercial</a></li>
-        <li><a title="É PERMITIDO modificar o software.">Modificação</a></li>
-        <li><a title="É PERMITIDO distribuir o software.">Distribuição</a></li>
-        <li><a title="É PERMITIDO conceder uma sublicença para modificar e
-distribuir o software a terceiros não incluídos na licença.">Sublicenciamento
-        </a></li>
+        <li>Uso comercial<sup><a href="#uso-comercial">5</a></sup></li>
+        <li>Modificação<sup><a href="#modificacao">6</a></sup></li>
+        <li>Distribuição<sup><a href="#distribuicao">7</a></sup></li>
+        <li>Sublicenciamento<sup><a href="#sublicenciamento-ok">12</a></sup>
+        </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PROIBIDO responsabilizar o autor do software por perdas
-e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
+        <li>Responsabilidade assegurada
+          <sup><a href="#responsabilidade">9</a></sup>
         </li>
       </ul>
     </td>
@@ -300,29 +286,28 @@ e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
     </td>
     <td>
       <ul>
-        <li><a title="É EXIGIDO que você inclua uma cópia da licença e aviso
-dos direitos autorais com o código fonte.">Aviso de licença e direitos autorais
-        </a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><a title="É PERMITIDO usar o software e seus derivados para fins
-comerciais.">Uso comercial</a></li>
-        <li><a title="É PERMITIDO modificar o software.">Modificação</a></li>
-        <li><a title="É PERMITIDO distribuir o software.">Distribuição</a></li>
-        <li><a title="É PERMITIDO conceder uma sublicença para modificar e
-distribuir o software a terceiros não incluídos na licença.">Sublicenciamento
-        </a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><a title="É PROIBIDO responsabilizar o autor do software por perdas
-e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
+        <li>Aviso de licença e direitos autorais.
+          <sup><a href="#direitos-autorais">1</a></sup>
         </li>
-        <li><a title="É PROIBIDO (explícitamente) utilizar nomes, logos ou
-marcas de contribuidores.">Uso de marca registrada</a></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Uso comercial<sup><a href="#uso-comercial">5</a></sup></li>
+        <li>Modificação<sup><a href="#modificacao">6</a></sup></li>
+        <li>Distribuição<sup><a href="#distribuicao">7</a></sup></li>
+        <li>Sublicenciamento<sup><a href="#sublicenciamento-ok">12</a></sup>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Responsabilidade assegurada
+          <sup><a href="#responsabilidade">9</a></sup>
+        </li>
+        <li>Uso de marca registrada
+          <sup><a href="#marca-registrada">11</a></sup>
+        </li>
       </ul>
     </td>
     <td></td>
@@ -336,36 +321,30 @@ marcas de contribuidores.">Uso de marca registrada</a></li>
     </td>
     <td>
       <ul>
-        <li><a title="É EXIGIDO que você inclua uma cópia da licença e aviso
-dos direitos autorais com o código fonte.">Aviso de licença e direitos autorais
-        </a></li>
-        <li>Uso de biblioteca</li>
-        <li>
-<a title="É EXIGIDO que o código fonte deve ser disponibilizado ao distribuir o
-software. Em caso de LGPL, o fonte da biblioteca (e não do programa
-inteiro) deve ser disponibilizado.">Divulgação do código fonte</a>
+        <li>Aviso de licença e direitos autorais
+          <sup><a href="#direitos-autorais">1</a></sup>
+        </li>
+        <li>Divulgação do código fonte
+          <sup><a href="#divulgacao-fonte">3</a></sup>
+        </li>
+        <li>Uso de biblioteca<sup><a href="#biblioteca">4</a></sup></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Uso comercial<sup><a href="#uso-comercial">5</a></sup></li>
+        <li>Modificação<sup><a href="#modificacao">6</a></sup></li>
+        <li>Distribuição<sup><a href="#distribuicao">7</a></sup></li>
+        <li>Concessão de patente<sup><a href="#concessao-patente">8</a></sup>
+        </li>
+        <li>Sublicenciamento<sup><a href="#sublicenciamento-ok">12</a></sup>
         </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PERMITIDO usar o software e seus derivados para fins
-comerciais.">Uso comercial</a></li>
-        <li><a title="É PERMITIDO modificar o software.">Modificação</a></li>
-        <li><a title="É PERMITIDO distribuir o software.">Distribuição</a></li>
-        <li><a title="É PERMITIDO conceder uma sublicença para modificar e
-distribuir o software a terceiros não incluídos na licença.">Sublicenciamento
-        </a></li>
-        <li>
-<a title="É PERMITIDO utilizar, modificar e distribuir este software SEM risco
-de quebra de patentes, pois há uma concessão expressa de direitos
-de patente do contribuinte para o destinatário.">Concessão de patente</a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><a title="É PROIBIDO responsabilizar o autor do software por perdas
-e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
+        <li>Responsabilidade assegurada
+          <sup><a href="#responsabilidade">9</a></sup>
         </li>
       </ul>
     </td>
@@ -384,36 +363,30 @@ e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
     </td>
     <td>
       <ul>
-        <li><a title="É EXIGIDO que você inclua uma cópia da licença e aviso
-dos direitos autorais com o código fonte.">Aviso de licença e direitos autorais
-        </a></li>
-        <li>Uso de biblioteca</li>
-        <li>
-<a title="É EXIGIDO que o código fonte deve ser disponibilizado ao distribuir o
-software. Em caso de LGPL, o fonte da biblioteca (e não do programa
-inteiro) deve ser disponibilizado.">Divulgação do código fonte</a>
+        <li>Aviso de licença e direitos autorais
+          <sup><a href="#direitos-autorais">1</a></sup>
+        </li>
+        <li>Divulgação do código fonte
+          <sup><a href="#divulgacao-fonte">3</a></sup>
+        </li>
+        <li>Uso de biblioteca<sup><a href="#biblioteca">4</a></sup></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Uso comercial<sup><a href="#uso-comercial">5</a></sup></li>
+        <li>Modificação<sup><a href="#modificacao">6</a></sup></li>
+        <li>Distribuição<sup><a href="#distribuicao">7</a></sup></li>
+        <li>Concessão de patente<sup><a href="#concessao-patente">8</a></sup>
+        </li>
+        <li>Sublicenciamento<sup><a href="#sublicenciamento-ok">12</a></sup>
         </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PERMITIDO usar o software e seus derivados para fins
-comerciais.">Uso comercial</a></li>
-        <li><a title="É PERMITIDO modificar o software.">Modificação</a></li>
-        <li><a title="É PERMITIDO distribuir o software.">Distribuição</a></li>
-        <li><a title="É PERMITIDO conceder uma sublicença para modificar e
-distribuir o software a terceiros não incluídos na licença.">Sublicenciamento
-        </a></li>
-        <li>
-<a title="É PERMITIDO utilizar, modificar e distribuir este software SEM risco
-de quebra de patentes, pois há uma concessão expressa de direitos
-de patente do contribuinte para o destinatário.">Concessão de patente</a></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><a title="É PROIBIDO responsabilizar o autor do software por perdas
-e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
+        <li>Responsabilidade assegurada
+          <sup><a href="#responsabilidade">9</a></sup>
         </li>
       </li>
       </ul>
@@ -429,38 +402,33 @@ e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
     </td>
     <td>
       <ul>
-        <li><a title="É EXIGIDO que você inclua uma cópia da licença e aviso
-dos direitos autorais com o código fonte.">Aviso de licença e direitos autorais
-        </a></li>
-        <li>
-<a title="É EXIGIDO que o código fonte deve ser disponibilizado ao distribuir o
-software. Em caso de LGPL, o fonte da biblioteca (e não do programa
-inteiro) deve ser disponibilizado.">Divulgação do código fonte</a>
+        <li>Aviso de licença e direitos autorais
+          <sup><a href="#direitos-autorais">1</a></sup>
+        </li>
+        <li>Divulgação do código fonte
+          <sup><a href="#divulgacao-fonte">3</a></sup>
         </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PERMITIDO usar o software e seus derivados para fins
-comerciais.">Uso comercial</a></li>
-        <li><a title="É PERMITIDO modificar o software.">Modificação</a></li>
-        <li><a title="É PERMITIDO distribuir o software.">Distribuição</a></li>
-        <li><a title="É PERMITIDO conceder uma sublicença para modificar e
-distribuir o software a terceiros não incluídos na licença.">Sublicenciamento
-        </a></li>
-        <li>
-<a title="É PERMITIDO utilizar, modificar e distribuir este software SEM risco
-de quebra de patentes, pois há uma concessão expressa de direitos
-de patente do contribuinte para o destinatário.">Concessão de patente</a></li>
+        <li>Uso comercial<sup><a href="#uso-comercial">5</a></sup></li>
+        <li>Modificação<sup><a href="#modificacao">6</a></sup></li>
+        <li>Distribuição<sup><a href="#distribuicao">7</a></sup></li>
+        <li>Concessão de patente<sup><a href="#concessao-patente">8</a></sup>
+        </li>
+        <li>Sublicenciamento<sup><a href="#sublicenciamento-ok">12</a></sup>
+        </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PROIBIDO responsabilizar o autor do software por perdas
-e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
+        <li>Responsabilidade assegurada
+          <sup><a href="#responsabilidade">9</a></sup>
         </li>
-        <li><a title="É PROIBIDO (explícitamente) utilizar nomes, logos ou
-marcas de contribuidores.">Uso de marca registrada</a></li>
+        <li>Uso de marca registrada
+          <sup><a href="#marca-registrada">11</a></sup>
+        </li>
       </ul>
     </td>
     <td>
@@ -477,37 +445,30 @@ marcas de contribuidores.">Uso de marca registrada</a></li>
     </td>
     <td>
       <ul>
-        <li><a title="É EXIGIDO que você inclua uma cópia da licença e aviso
-dos direitos autorais com o código fonte.">Aviso de licença e direitos autorais
-        </a></li>
-        <li>
-<a title="É EXIGIDO que o código fonte deve ser disponibilizado ao distribuir o
-software. Em caso de LGPL, o fonte da biblioteca (e não do programa
-inteiro) deve ser disponibilizado.">Divulgação do código fonte</a>
+        <li>Aviso de licença e direitos autorais
+          <sup><a href="#direitos-autorais">1</a></sup>
+        </li>
+        <li>Divulgação do código fonte
+          <sup><a href="#divulgacao-fonte">3</a></sup>
         </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PERMITIDO usar o software e seus derivados para fins
-comerciais.">Uso comercial</a></li>
-        <li><a title="É PERMITIDO modificar o software.">Modificação</a></li>
-        <li><a title="É PERMITIDO distribuir o software.">Distribuição</a></li>
-        <li><a title="É PERMITIDO conceder uma sublicença para modificar e
-distribuir o software a terceiros não incluídos na licença.">Sublicenciamento
-        </a></li>
-        <li>
-<a title="É PERMITIDO utilizar, modificar e distribuir este software SEM risco
-de quebra de patentes, pois há uma concessão expressa de direitos
-de patente do contribuinte para o destinatário.">Concessão de patente</a></li>
+        <li>Uso comercial<sup><a href="#uso-comercial">5</a></sup></li>
+        <li>Modificação<sup><a href="#modificacao">6</a></sup></li>
+        <li>Distribuição<sup><a href="#distribuicao">7</a></sup></li>
+        <li>Concessão de patente<sup><a href="#concessao-patente">8</a></sup>
+        </li>
+        <li>Sublicenciamento<sup><a href="#sublicenciamento-ok">12</a></sup>
+        </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a title="É PROIBIDO responsabilizar o autor do software por perdas
-e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
+        <li>Responsabilidade assegurada
+          <sup><a href="#responsabilidade">9</a></sup>
         </li>
-      </li>
       </ul>
     </td>
     <td>
@@ -517,6 +478,30 @@ e dados. O software é fornecido SEM garantias.">Responsabilidade assegurada</a>
     </td>    
   </tr>
 </table>
-
+<hr>
 <a name="direitos-autorais">1</a>: É EXIGIDO que você inclua uma cópia da
-licença e aviso dos direitos autorais com o código fonte.
+licença e aviso dos direitos autorais com o código fonte.  
+<a name="mudancas-estado">2</a>: É EXIGIDO indicar alterações significativas
+feitas no código.  
+<a name="divulgacao-fonte">3</a>: É EXIGIDO que o código fonte deve ser
+disponibilizado ao distribuir o software. Em caso de LGPL, o fonte da
+biblioteca (e não do programa inteiro) deve ser disponibilizado.  
+<a name="biblioteca">4</a>: A biblioteca pode ser usada dentro de um software
+não open source.  
+
+<a name="uso-comercial">5</a>: É PERMITIDO usar o software e seus derivados
+para fins comerciais.  
+<a name="modificacao">6</a>: É PERMITIDO modificar o software.  
+<a name="distribuicao">7</a>: É PERMITIDO distribuir o software.  
+<a name="concessao-patente">8</a>: É PERMITIDO utilizar, modificar e distribuir
+este software SEM risco de quebra de patentes, pois há uma concessão expressa
+de direitos de patente do contribuinte para o destinatário.  
+<a name="sublicenciamento-ok">12</a>: É PERMITIDO sublicenciar para modificar e
+distribuir o software a terceiros não incluídos na licença.  
+
+<a name="responsabilidade">9</a>: É PROIBIDO responsabilizar o autor do
+software por perdas e dados. O software é fornecido SEM garantias.  
+<a name="sublicenciamento">10</a>: É PROIBIDO sublicenciar para modificar e
+distribuir o software a terceiros não incluídos na licença.  
+<a name="marca-registrada">11</a>: É PROIBIDO (explícitamente) utilizar nomes,
+logos ou marcas de contribuidores.  
