@@ -478,30 +478,30 @@ procedimentos foram feitos.
     </td>    
   </tr>
 </table>
-<hr>
-<a name="direitos-autorais">1</a>: É EXIGIDO que você inclua uma cópia da
-licença e aviso dos direitos autorais com o código fonte.  
-<a name="mudancas-estado">2</a>: É EXIGIDO indicar alterações significativas
-feitas no código.  
-<a name="divulgacao-fonte">3</a>: É EXIGIDO que o código fonte deve ser
+<hr />
+<a name="direitos-autorais"><b>1</b></a>: É EXIGIDO que você inclua uma cópia
+da licença e aviso dos direitos autorais com o código fonte.<br />
+<a name="mudancas-estado"><b>2</b></a>: É EXIGIDO indicar alterações
+significativas feitas no código.<br />
+<a name="divulgacao-fonte"><b>3</b></a>: É EXIGIDO que o código fonte deve ser
 disponibilizado ao distribuir o software. Em caso de LGPL, o fonte da
-biblioteca (e não do programa inteiro) deve ser disponibilizado.  
-<a name="biblioteca">4</a>: A biblioteca pode ser usada dentro de um software
-não open source.  
+biblioteca (e não do programa inteiro) deve ser disponibilizado.<br />
+<a name="biblioteca"><b>4</b></a>: A biblioteca pode ser usada dentro de um
+software não open source.<br />
 
-<a name="uso-comercial">5</a>: É PERMITIDO usar o software e seus derivados
-para fins comerciais.  
-<a name="modificacao">6</a>: É PERMITIDO modificar o software.  
-<a name="distribuicao">7</a>: É PERMITIDO distribuir o software.  
-<a name="concessao-patente">8</a>: É PERMITIDO utilizar, modificar e distribuir
-este software SEM risco de quebra de patentes, pois há uma concessão expressa
-de direitos de patente do contribuinte para o destinatário.  
-<a name="sublicenciamento-ok">12</a>: É PERMITIDO sublicenciar para modificar e
-distribuir o software a terceiros não incluídos na licença.  
+<a name="uso-comercial"><b>5</b></a>: É PERMITIDO usar o software e seus
+derivados para fins comerciais.<br />
+<a name="modificacao"><b>6</b></a>: É PERMITIDO modificar o software.<br />
+<a name="distribuicao"><b>7</b></a>: É PERMITIDO distribuir o software.<br />
+<a name="concessao-patente"><b>8</b></a>: É PERMITIDO utilizar, modificar e
+distribuir este software SEM risco de quebra de patentes, pois há uma concessão
+expressa de direitos de patente do contribuinte para o destinatário.<br />
+<a name="sublicenciamento-ok"><b>12</b></a>: É PERMITIDO sublicenciar para
+modificar e distribuir o software a terceiros não incluídos na licença.<br />
 
-<a name="responsabilidade">9</a>: É PROIBIDO responsabilizar o autor do
-software por perdas e dados. O software é fornecido SEM garantias.  
-<a name="sublicenciamento">10</a>: É PROIBIDO sublicenciar para modificar e
-distribuir o software a terceiros não incluídos na licença.  
-<a name="marca-registrada">11</a>: É PROIBIDO (explícitamente) utilizar nomes,
-logos ou marcas de contribuidores.  
+<a name="responsabilidade"><b>9</b></a>: É PROIBIDO responsabilizar o autor do
+software por perdas e dados. O software é fornecido SEM garantias.<br />
+<a name="sublicenciamento"><b>10</b></a>: É PROIBIDO sublicenciar para
+modificar e distribuir o software a terceiros não incluídos na licença.<br />
+<a name="marca-registrada"><b>11</b></a>: É PROIBIDO (explícitamente) utilizar
+nomes, logos ou marcas de contribuidores.<br />
