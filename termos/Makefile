@@ -3,7 +3,7 @@ PDFLATEX       = pdflatex
 VIEWER         =
 
 # Commands parameters
-PDFLATEX_FLAGS = -quiet
+PDFLATEX_FLAGS = -quiet -interaction=nonstopmode -halt-on-error
 
 # Variables
 TEXES          = $(wildcard *.tex)
