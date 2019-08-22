@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The MIT License (MIT) Copyright (C) 2019 SiReS Samuel Ferraz, Allan 
+	Bispo, Pedro Santana, Eric Sales Permission is hereby granted, free of charge, 
+	to any person obtaining a copy of this software and associated documentation 
+	files (the "Software"), to deal in the Software without restriction, including 
+	without limitation the rights to use, copy, modify, merge, publish, distribute, 
+	sublicense, and/or sell copies of the Software, and to permit persons to 
+	whom the Software is furnished to do so, subject to the following conditions: 
+	The above copyright notice and this permission notice shall be included in 
+	all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED 
+	"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT 
+	NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+	PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS 
+	BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION 
+	OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
+	THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.github.ssferraz</groupId>
+	<artifactId>sires</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<packaging>war</packaging>
+
+	<name>SiReS</name>
+	<description>Sistema de Reserva de Salas</description>
+	<url>https://github.com/ssferraz/sires</url>
+	<inceptionYear>2019</inceptionYear>
+	<organization>
+		<name>SiRes</name>
+		<url>https://github.com/ssferraz/sires</url>
+	</organization>
+	
+	<licenses>
+		<license>
+			<name>MIT</name>
+			<url>https://github.com/ssferraz/sires/LICENSE.txt</url>
+		</license>
+	</licenses>
+	
+	<developers>
+		<developer>
+			<id>1</id>
+			<name>Samuel Ferraz</name>
+			<email>thesferraz@gmail.com</email>
+			<organization>ssferraz</organization>
+			<organizationUrl>https://github.com/ssferraz</organizationUrl>
+			<roles>
+				<role>Architect</role>
+				<role>Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<id>2</id>
+			<name>Allan Bispo</name>
+			<email>allandellon.desbra@gmail.com</email>
+			<organization>ADBispo</organization>
+			<organizationUrl>https://github.com/ADBispo</organizationUrl>
+			<roles>
+				<role>Developer</role>
+			</roles>
+		</developer>
+		<developer>
+			<id>3</id>
+			<name>Pedro Santana</name>
+			<email>pedrovms10@hotmail.com</email>
+			<organization>pedrovictor2</organization>
+			<organizationUrl>https://github.com/pedrovictor2</organizationUrl>
+			<roles>
+				<role>Developer</role>
+			</roles>
+		</developer>
+	</developers>
+	
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/ssferraz/sires/issues</url>
+	</issueManagement>
+	
+	<scm>
+		<connection>scm:git:git@github.com:ssferraz/sires.git</connection>
+		<developerConnection>
+      scm:git:git@github.com:sires/sires.git
+    </developerConnection>
+		<url>https://github.com/ssferraz/sires</url>
+	</scm>
+	
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.faces</groupId>
+			<artifactId>jsf-api</artifactId>
+			<version>2.2.2</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.faces</groupId>
+			<artifactId>jsf-impl</artifactId>
+			<version>2.2.2</version>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>4.0.1</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.17</version>
+		</dependency>
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>5.4.4.Final</version>
+		</dependency>
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>3.141.59</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-dependency-plugin</artifactId>
+			<version>3.1.1</version>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<finalName>${project.artifactId}</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>2.3</version>
+				<configuration>
+					<failOnMissingWebXml>false</failOnMissingWebXml>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>
